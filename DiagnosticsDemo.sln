@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC59C35E-2818-4AFB-8097-DB236FA0A84B}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		.github\workflows\ci.yml = .github\workflows\ci.yml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOneTests", "tests\AppOneTests\AppOneTests.csproj", "{82C1CDC0-1446-423A-894E-96AA057F1428}"

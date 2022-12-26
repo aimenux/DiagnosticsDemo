@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/DiagnosticsDemo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimenux/DiagnosticsDemo/actions/workflows/ci.yml)
+
 # DiagnosticsDemo
 ```
 Instrumenting code with System.Diagnostics library
