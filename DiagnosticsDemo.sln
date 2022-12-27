@@ -13,9 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.github\workflows\ci.yml = .github\workflows\ci.yml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOneTests", "tests\AppOneTests\AppOneTests.csproj", "{82C1CDC0-1446-423A-894E-96AA057F1428}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOneTests", "test\AppOneTests\AppOneTests.csproj", "{82C1CDC0-1446-423A-894E-96AA057F1428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTwoTests", "tests\AppTwoTests\AppTwoTests.csproj", "{67E3D184-6910-404A-811A-EECC73958CB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTwoTests", "test\AppTwoTests\AppTwoTests.csproj", "{67E3D184-6910-404A-811A-EECC73958CB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
